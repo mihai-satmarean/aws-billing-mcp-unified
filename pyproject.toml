@@ -1,6 +1,6 @@
 [project]
 name = "aws-billing-mcp-unified"
-version = "0.1.0"
+version = "0.0.1"
 
 description = "Unified AWS Billing MCP server — extends awslabs/billing-cost-management-mcp-server with cost-by-tag, credits analysis, CUR parsing and invoice download tools."
 readme = "README.md"
